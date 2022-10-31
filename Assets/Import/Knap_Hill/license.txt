@@ -1,0 +1,11 @@
+Model Information:
+* title:	Knap Hill
+* source:	https://sketchfab.com/3d-models/knap-hill-c9a51a9a3af1400491fe1c2c4e297811
+* author:	Megalith Archive (https://sketchfab.com/megalitharchive)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Knap Hill" (https://sketchfab.com/3d-models/knap-hill-c9a51a9a3af1400491fe1c2c4e297811) by Megalith Archive (https://sketchfab.com/megalitharchive) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

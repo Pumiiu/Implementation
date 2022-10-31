@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bush2
+* source:	https://sketchfab.com/3d-models/bush2-4f33ddd1d88c459d85385705d8964e0f
+* author:	Wes3Dprojects (https://sketchfab.com/Wes3Dprojects)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bush2" (https://sketchfab.com/3d-models/bush2-4f33ddd1d88c459d85385705d8964e0f) by Wes3Dprojects (https://sketchfab.com/Wes3Dprojects) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

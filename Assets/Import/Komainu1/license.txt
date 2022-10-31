@@ -1,0 +1,11 @@
+Model Information:
+* title:	Komainu1
+* source:	https://sketchfab.com/3d-models/komainu1-688193dc5b5f45c79a7d700a9180a8ac
+* author:	m1970 (https://sketchfab.com/mushimago)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Komainu1" (https://sketchfab.com/3d-models/komainu1-688193dc5b5f45c79a7d700a9180a8ac) by m1970 (https://sketchfab.com/mushimago) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

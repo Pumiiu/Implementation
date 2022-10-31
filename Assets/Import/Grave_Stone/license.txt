@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grave Stone
+* source:	https://sketchfab.com/3d-models/grave-stone-7c8ce4b6d93247b5b5c8e489239e9341
+* author:	ArunIniyan (https://sketchfab.com/Arun_Iniyan)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grave Stone" (https://sketchfab.com/3d-models/grave-stone-7c8ce4b6d93247b5b5c8e489239e9341) by ArunIniyan (https://sketchfab.com/Arun_Iniyan) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
